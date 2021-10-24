@@ -8,4 +8,4 @@ result = x + y + z
 print(f"{x} + {y} + {z} = {result}")
 a = 1213
 b = 321
-print(a + b)
+print(a)
